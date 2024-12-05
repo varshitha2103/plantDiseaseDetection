@@ -1,3 +1,5 @@
-# PlantDiseaseDetection
+# Plant Disease Detection
 # Data Source link: https://www.kaggle.com/datasets/alinedobrovsky/plant-disease-classification-merged-dataset?select=Cherry__powdery_mildew
-# This project aims to develop an innovative image recognition system that can accurately distinguish between healthy and diseased plants, helping to reduce crop loss and ensure food safety
+# Agricultural productivity is critical to ensuring global food security and sustaining economic growth. However, crop losses caused by plant diseases significantly impact farmers' livelihoods, disrupt food supply chains, and result in billions of dollars in economic losses annually. Traditional disease detection methods are often labor-intensive, time-consuming, and prone to errors, especially when dealing with large-scale farming operations.
+
+#This project addresses the pressing need for a scalable and accurate solution to identify plant diseases early, minimizing crop losses and safeguarding food safety. By leveraging advanced image recognition technologies, the project aims to empower farmers and agricultural stakeholders with a reliable tool to distinguish between healthy and diseased plants. This will not only enhance operational efficiency but also contribute to sustainable farming practices and increased agricultural profitability.
